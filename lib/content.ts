@@ -33,7 +33,7 @@ export const content = {
       title: "Calefacción y Clima",
       thermostat: "El termostato está ubicado en la cocina. La temperatura está en grados Celsius.",
       temperatures: [
-        { situation: "Durante el día (en casa)", temp: "21-22°C" },
+        { situation: "Durante el día (en casa)", temp: "19-21°C" },
         { situation: "Para dormir", temp: "16-17°C o menos" },
         { situation: "Cuando salgas", temp: "18°C" }
       ],
@@ -159,7 +159,7 @@ export const content = {
       title: "Heating & Climate",
       thermostat: "The thermostat is located in the kitchen. Temperature is in Celsius.",
       temperatures: [
-        { situation: "During the day (at home)", temp: "21-22°C" },
+        { situation: "During the day (at home)", temp: "19-21°C" },
         { situation: "For sleeping", temp: "16-17°C or less" },
         { situation: "When going out", temp: "18°C" }
       ],
